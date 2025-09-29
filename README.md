@@ -6,7 +6,7 @@ This project simulates a blockchain-based certificate system using Ethereum smar
 ## Contract Details
 - Language: Solidity
 - Network: Sepolia Testnet
-- Contract Address: 0xYourDeployedAddressHere
+- Contract Address: 0x2F697Cd77736DbeD7fE97e471dCF1b38c96C10be
 
 ## Features
 - Issue certificates (only by owner)
